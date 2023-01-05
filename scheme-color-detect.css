@@ -1,0 +1,31 @@
+:root{ 
+--bgColorTDark: hsla(224, 43%, 21%, 1);
+--txColor: hsla(42, 51%, 84%, 1);
+}
+
+/* Light mode */
+@media (prefers-color-scheme: light) {
+  :root {
+    background: ivory;
+    color: black;
+  }
+}
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+   :root {
+  
+    background: var(--bgColorTDark);
+    color: var(--txColor);
+  }
+}
+
+/* Dark mode if not detected */
+@media (prefers-color-scheme: no-preference) {
+   :root {
+    background: var(--bgColorTDark);
+    color: var(--txColor);
+  }
+}
+
+
