@@ -1,0 +1,27 @@
+html{
+  height:100%
+}
+body{
+  background: rgb(101,66,126);
+  background-image:
+url("https://www.transparenttextures.com/patterns/notebook-dark.png"),
+       
+linear-gradient(149deg, 
+ hsla(240, 96% , 47%, 1) 0%, 
+ hsla(251, 97% , 64%, 1) 25%,
+ hsla(2  , 87% , 59%, 1) 50%, 
+ hsla(42 , 100%, 72%, 1) 75%,
+ hsla(162, 87% , 35%, 1) 88%),
+  
+ linear-gradient(249deg, 
+ hsla(240, 96% , 47%, 1) 0%, 
+ hsla(51, 97% , 64%, 1) 25%,
+ hsla(32  , 87% , 59%, 1) 50%, 
+ hsla(42 , 100%, 72%, 1) 75%,
+ hsla(162, 87% , 35%, 1) 88%);
+
+  
+  place-items:center;
+  text-align:center
+  height:100%;
+  }
