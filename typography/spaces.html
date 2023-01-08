@@ -5,9 +5,11 @@ Unicode: Unicode Number [Version 1.1 (1993)];
 Bidirectional: "Bidirectional Class";
 Combining: "Combining Class";
 
+Alt:"Alt-code";
 Entity: "HTML Entity";
 HTML: "HTML-code";
 HEX: "HEX HTML-code";
+
 UTF-8: "UTF-8 Encoding";
 UTF-16:"UTF-16 Encoding";
 UTF-32:"UTF-32 Encoding";
@@ -51,24 +53,34 @@ DRAFT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 non breaking space : &nbsp;
   
   
- Encoding 
- {}
+//Encoding  {}
  
-Encoding	hex	dec (bytes)	dec	binary
-UTF-8	{20;	32;	32;	00100000}
+//Encoding;	hex;	dec(bytes);	dec;	binary
 
-UTF-16BE	00 20	; 0 32	;32	;00000000 00100000
-UTF-16LE	20 00	32 0	8192	00100000 00000000
-UTF-32BE	00 00 00 20	0 0 0 32	32	00000000 00000000 00000000 00100000
-UTF-32LE	20 00 00 00	32 0 0 0	536870912	00100000 00000000 00000000 00000000
+//UTF-8;    20    ; 32   ;32 ;00100000
  
-  
+//UTF-16BE;	00 20	; 0 32	;32	;00000000 00100000
+//UTF-16LE;	20 00;	32 0;	8192;00100000 00000000
+ 
+//UTF-32BE	00 00 00 20;	0 0 0 32;	32;	00000000 00000000 00000000 00100000
+//UTF-32LE	20 00 00 00;	32 0 0 0;	536870912;	00100000 00000000 00000000 00000000
+ 
+ //UTF-8:{"UTF-8";"20";"32";"32";"00100000"};
+ //UTF-16:{"UTF-16BE";"00.20";"0.32";"32";"00000000.00100000"},{"UTF-16LE";"20.00";"32.0";"8192";"00100000.00000000"};
+ //UTF-32:{"UTF-32BE";"00.00.00.20";"0.0.0.32";"32";"00000000.00000000.00000000.00100000"},{"UTF-32LE";"20.00.00.00";"32.0.0.0";"536870912";"00100000.00000000.00000000.00000000"};
+ //UTF-8:0x20;UTF-16:0x0020;UTF-32:0x00000020
+ 
   
 DRAFT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Spaces >>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-] [Space: {HTML:&#32;HEX:&#x20;UTF-8:0x20;UTF-16:0x0020;UTF-32:0x00000020;Name:Space;Formerly:Sp;PostScript:space;Block:"Basic Latin";Plane:"Basic Multilingual";Category:Zs;Bidirectional:WS;Combining:NRORD;}
+] [Space: {HTML:&#32;HEX:&#x20;Name:Space;Formerly:Sp;PostScript:space;Block:"Basic Latin";Plane:"Basic Multilingual";Category:Zs;Bidirectional:WS;Combining:NRORD;Alt:"Alt+32";}
+ UTF-8:{"UTF-8";"20";"32";"32";"00100000"};
+ UTF-16:{"UTF-16BE";"00.20";"0.32";"32";"00000000.00100000"},{"UTF-16LE";"20.00";"32.0";"8192";"00100000.00000000"};
+ UTF-32:{"UTF-32BE";"00.00.00.20";"0.0.0.32";"32";"00000000.00000000.00000000.00100000"},{"UTF-32LE";"20.00.00.00";"32.0.0.0";"536870912";"00100000.00000000.00000000.00000000"};
+ 
 ] [En Quad: {HTML:&#8192;Unicode:U+2000;CSS-code:\2000; Name: En Quad;}
+ 
 ] [Em Quad: HTML-code: &#8193; Unicode: U+2001; CSS-code: \2001; Name: Em Quad;
 ] [En Space: HTML-code: &#8194; Entity:	&ensp; Unicode: U+2002; CSS-code: \2002; Name: nut;
 ] [Em Space: HTML-code: &#8195; Entity: &emsp; Name: mutton; 
