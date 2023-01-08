@@ -1,14 +1,16 @@
 Legend:
 
+S: "Symbol";
 PostScript: PostScript Name;
 Unicode: Unicode Number [Version 1.1 (1993)];
 Bidirectional: "Bidirectional Class";
 Combining: "Combining Class";
 
 Alt:"Alt-code";
-Entity: "HTML Entity";
-HTML: "HTML-code";
-HEX: "HEX HTML-code";
+
+Entity:"HTML Entity";
+HTML:"HTML-code Entity";
+HHEX:"HEX HTML-code Entity";
 
 UTF-8: "UTF-8 Encoding";
 UTF-16:"UTF-16 Encoding";
@@ -17,12 +19,17 @@ UTF-32:"UTF-32 Encoding";
 Scripts: "Scripts (ISO 15924)";
 "Code for undetermined script";
 
-"Basic Latin": "Basic Latin, U+0000 - U+007F";
-"Basic Multilingual": "Basic Multilingual Plane", U+0000 - U+FFFF";
+"Basic Latin":"Basic Latin, U+0000 - U+007F";
+"Basic Multilingual":"Basic Multilingual Plane", U+0000 - U+FFFF";
 
 Zs: "Space Separator";
 WS: "White Space";
+So: "Other Symbol";
+
 NRORD: "Not Reordered";
+
+//UCS-2 AS UTF-16;
+//UCS-4 AS UTF-32;
 
 DRAFT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [{9,<<"<control>">>},
@@ -74,12 +81,19 @@ non breaking space : &nbsp;
 DRAFT ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Spaces >>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-] [Space: {HTML:&#32;HEX:&#x20;Name:Space;Formerly:Sp;PostScript:space;Block:"Basic Latin";Plane:"Basic Multilingual";Category:Zs;Bidirectional:WS;Combining:NRORD;Alt:"Alt+32";}
- UTF-8:{"UTF-8";"20";"32";"32";"00100000"};
- UTF-16:{"UTF-16BE";"00.20";"0.32";"32";"00000000.00100000"},{"UTF-16LE";"20.00";"32.0";"8192";"00100000.00000000"};
- UTF-32:{"UTF-32BE";"00.00.00.20";"0.0.0.32";"32";"00000000.00000000.00000000.00100000"},{"UTF-32LE";"20.00.00.00";"32.0.0.0";"536870912";"00100000.00000000.00000000.00000000"};
+[ ]{S:"Space";HTML:&#32;HHEX:&#x20;Unicode:U+0020;CSS-code:\0020;Name:Space;
+Formerly:Sp;PostScript:space;Block:"Basic Latin";Plane:"Basic Multilingual";Category:Zs;Bidirectional:WS;Combining:NRORD;Alt:"Alt+32"};
+UTF-8:{"UTF-8";"20";"32";"32";"00100000"};
+UTF-16:
+{"UTF-16BE";"00.20";"0.32";"32";"00000000.00100000"},
+{"UTF-16LE";"20.00";"32.0";"8192";"00100000.00000000"};
+UTF-32:
+{"UTF-32BE";"00.00.00.20";"0.0.0.32";"32";"00000000.00000000.00000000.00100000"},
+{"UTF-32LE";"20.00.00.00";"32.0.0.0";"536870912";"00100000.00000000.00000000.00000000"};
+Description:"";
  
-] [En Quad: {HTML:&#8192;Unicode:U+2000;CSS-code:\2000; Name: En Quad;}
+[ ]En Quad: {HTML:&#8192;Unicode:U+2000;CSS-code:\2000;Name:"En Quad"};
+Description:"";
  
 ] [Em Quad: HTML-code: &#8193; Unicode: U+2001; CSS-code: \2001; Name: Em Quad;
 ] [En Space: HTML-code: &#8194; Entity:	&ensp; Unicode: U+2002; CSS-code: \2002; Name: nut;
@@ -92,6 +106,30 @@ Spaces >>>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 [ ] thin space : &#8201; or &thinsp;
 [ ] hair space : &#8202; or &hairsp;
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<<< Spaces
+                                                                                                                                 
+[␠]{S:"Space";HTML:&#9248;HHEX:&#x2420;#;Unicode:U+2420;CSS-code:\2420;Name:Space;
+Formerly:Sp;PostScript:space;Block:"Control Pictures";Plane:"Basic Multilingual";Category:Zs;Bidirectional:WS;Combining:NRORD;Alt:"Alt+32"};
+UTF-8:{"UTF-8";"E2.90.A0";"226.144.160";"14848160";"11100010.10010000.10100000"};
+UTF-16:
+{"UTF-16BE";"24.20";"36.32";"9248";"00100100.00100000"},
+{"UTF-16LE";"20.24";"32.36";"8228";"00100000.00100100"};
+UTF-32:
+{"UTF-32BE";"00.00.24.20";"0.0.36.32";"9248";"00000000.00000000.00100100.00100000"},
+{"UTF-32LE";"20.24.00.00";"32.36.0.0";"539230208";"00100000.00100100.00000000.00000000"};
+Description:"";
+                                                                                                                                 
+                                                  
+
+                                                                                                                                 
+
+
+[𝩿]{S:"Signwriting Location-Wallplane Space";HTML:&#32;HEX:&#x20;Unicode:U+1DA7F;Name:Space;Formerly:Sp;PostScript:space;Block:"Basic Latin";Plane:"Basic Multilingual";Category:Zs;Bidirectional:WS;Combining:NRORD;Alt:"Alt+32";};
+UTF-8:{"UTF-8";"20";"32";"32";"00100000"};
+UTF-16:{"UTF-16BE";"00.20";"0.32";"32";"00000000.00100000"},{"UTF-16LE";"20.00";"32.0";"8192";"00100000.00000000"};
+UTF-32:{"UTF-32BE";"00.00.00.20";"0.0.0.32";"32";"00000000.00000000.00000000.00100000"},{"UTF-32LE";"20.00.00.00";"32.0.0.0";"536870912";"00100000.00000000.00000000.00000000"};
+Description:"";
+                                                                                                                                 
+                                                                                                                                 
 
 [ ] narrow no-break space : &#8239; (no character reference available)
 [ ] non breaking space : &#160; or &nbsp;
