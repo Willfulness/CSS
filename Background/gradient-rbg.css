@@ -1,0 +1,433 @@
+body{background: -webkit-linear-gradient(90deg,#354dc0,#813ba8,#a52a8a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#354dc0,#813ba8,#a52a8a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#5eb4e5,#97cff0,#ffffff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#5eb4e5,#97cff0,#ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#7cd9f8,#8226f3,#6fdeb9); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7cd9f8,#8226f3,#6fdeb9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ebf2bd,#438cbb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ebf2bd,#438cbb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#e45c01,#f78502,#f79b45); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e45c01,#f78502,#f79b45); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#abf8e7,#8778c7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#abf8e7,#8778c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#b0a6a6,#ead1d1,#e6c1c1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#b0a6a6,#ead1d1,#e6c1c1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#669d34,#0061fe); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#669d34,#0061fe); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#7eb0d7,#0c3c98); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7eb0d7,#0c3c98); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#6340a2,#17dba3,#0b7373); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6340a2,#17dba3,#0b7373); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#72db70,#dbd870,#db7070); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#72db70,#dbd870,#db7070); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#32127a,#e0218a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#32127a,#e0218a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#6340a2,#17dba3,#0b7373); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6340a2,#17dba3,#0b7373); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#c4a700,#ff6c15,#ff248c,#ea5af7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c4a700,#ff6c15,#ff248c,#ea5af7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#17dba3,#6340a2,#0b7373); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#17dba3,#6340a2,#0b7373); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#17dba3,#0b7373,#6340a2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#17dba3,#0b7373,#6340a2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#0b7373,#6340a2,#17dba3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0b7373,#6340a2,#17dba3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#68d8a8,#47ada1,#478288); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#68d8a8,#47ada1,#478288); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#d82b56,#be264c,#920c2d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d82b56,#be264c,#920c2d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#3bbcd4,#9fc53a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#3bbcd4,#9fc53a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#e68684,#538c89); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e68684,#538c89); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ffffff,#f4f9a4,#97f2f0,#82e396); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffffff,#f4f9a4,#97f2f0,#82e396); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#10170e,#1d697c,#d8a7eb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#10170e,#1d697c,#d8a7eb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#4491ff,#fdda0b,#b30101); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#4491ff,#fdda0b,#b30101); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#d58744,#6bb3ff,#ffeabd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d58744,#6bb3ff,#ffeabd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#d58744,#7d93bf,#ffffff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d58744,#7d93bf,#ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ff0000,#ff5900,#ff0000); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ff0000,#ff5900,#ff0000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#475272,#9391ab,#ded8e8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#475272,#9391ab,#ded8e8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#b6c3ca,#ffffff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#b6c3ca,#ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#fdb68b,#cb8b9f,#79738d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fdb68b,#cb8b9f,#79738d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#44acc4,#13688f,#811658); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#44acc4,#13688f,#811658); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#a50937,#1daef3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#a50937,#1daef3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#006e99,#f9d59d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#006e99,#f9d59d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#005070,#007cad,#e0c18f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#005070,#007cad,#e0c18f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#99244f,#f7ce46); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#99244f,#f7ce46); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#1463ca,#e97f94,#ecdbac); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#1463ca,#e97f94,#ecdbac); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#8593ff,#ff66d4,#ff5266,#ffb54d,#e8ff75); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8593ff,#ff66d4,#ff5266,#ffb54d,#e8ff75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ffd642,#caf736,#65ec79,#31ddbb,#3ae8ee); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffd642,#caf736,#65ec79,#31ddbb,#3ae8ee); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#e2f675,#c8f460,#a7f24e,#7fef40,#3fed37); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e2f675,#c8f460,#a7f24e,#7fef40,#3fed37); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#8593ff,#ff66d4,#ff5266,#ffb54d,#e8ff75); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8593ff,#ff66d4,#ff5266,#ffb54d,#e8ff75); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#6bffae,#5cdcff,#ea9ef0); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6bffae,#5cdcff,#ea9ef0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ffde7a,#ffba52,#ffa05c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffde7a,#ffba52,#ffa05c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#c3ff7a,#ff9780,#de85ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c3ff7a,#ff9780,#de85ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#c3ff7a,#ff9780,#de85ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c3ff7a,#ff9780,#de85ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#5e033c,#d86937,#e5fd4e); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#5e033c,#d86937,#e5fd4e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#8c93d3,#84cee1,#dcf7e5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8c93d3,#84cee1,#dcf7e5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#150c66,#bf495d,#f0cd84); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#150c66,#bf495d,#f0cd84); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#cf2d71,#fdc3c6,#d3ccd3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#cf2d71,#fdc3c6,#d3ccd3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#53b8cf,#9375ca,#b65cd7,#f901d1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#53b8cf,#9375ca,#b65cd7,#f901d1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#c4ec8e,#00afb7,#3f5e95); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c4ec8e,#00afb7,#3f5e95); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#8b3088,#693a90,#414191); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8b3088,#693a90,#414191); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#d7e4f2,#a7b0ec,#ad6dcb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d7e4f2,#a7b0ec,#ad6dcb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ff8349,#e567b3,#3b84db); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ff8349,#e567b3,#3b84db); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ffffff,#d6d8d8,#9b9b9b,#646464,#1a1a1a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffffff,#d6d8d8,#9b9b9b,#646464,#1a1a1a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#2cd8a3,#0096dc,#1d33b2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#2cd8a3,#0096dc,#1d33b2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#13dc8e,#00cfe9,#64b2f8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#13dc8e,#00cfe9,#64b2f8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#086b62,#27b666,#bdf816); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#086b62,#27b666,#bdf816); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#6d09f4,#cc00a9,#dc1571); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6d09f4,#cc00a9,#dc1571); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#864f83,#d84f66,#ea8105); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#864f83,#d84f66,#ea8105); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#6ad0f5,#00a4ff,#a253f5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6ad0f5,#00a4ff,#a253f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#76c893,#52b69a,#1a759f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#76c893,#52b69a,#1a759f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#007f5f,#80b918,#bfd200,#dddf00,#ffff3f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#007f5f,#80b918,#bfd200,#dddf00,#ffff3f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ff928b,#ff928b,#fec3a6); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ff928b,#ff928b,#fec3a6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ffcfd2,#fde4cf,#fbf8cc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffcfd2,#fde4cf,#fbf8cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f3c4fb,#e2afff,#c8e7ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f3c4fb,#e2afff,#c8e7ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ccd5ae,#fefae0,#faedcd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ccd5ae,#fefae0,#faedcd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#6b7bc6,#b16fc0,#e6629e,#ff666b,#f68231); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6b7bc6,#b16fc0,#e6629e,#ff666b,#f68231); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ae5fab,#9c55a5,#894ba0,#75429a,#5f3a94); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ae5fab,#9c55a5,#894ba0,#75429a,#5f3a94); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#95fea9,#aefb9b,#c5f78f,#d9f287,#eced82); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#95fea9,#aefb9b,#c5f78f,#d9f287,#eced82); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#cf4175,#e89560,#dbe49b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#cf4175,#e89560,#dbe49b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f20089,#4ea8de,#80ffdb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f20089,#4ea8de,#80ffdb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#90dbf4,#cfbaf0,#fde4cf); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#90dbf4,#cfbaf0,#fde4cf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#22577a,#57cc99,#c7f9cc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#22577a,#57cc99,#c7f9cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f0a6ca,#fcf6bd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f0a6ca,#fcf6bd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ffba08,#ff1b3a,#370617); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffba08,#ff1b3a,#370617); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#fde4cf,#a3c4f3,#8eecf5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fde4cf,#a3c4f3,#8eecf5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#d9ae94,#ffcb69,#d08c60); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d9ae94,#ffcb69,#d08c60); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#edf2f4,#415a77,#0d1b2a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#edf2f4,#415a77,#0d1b2a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#efc3e6,#dee2ff,#feeafa); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#efc3e6,#dee2ff,#feeafa); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#9c89b8,#efc3e6); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9c89b8,#efc3e6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(66deg,#38a3a5,#57cc99,#80ed99,#c7f9cc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(66deg,#38a3a5,#57cc99,#80ed99,#c7f9cc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#fbf8cc,#98f5e1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fbf8cc,#98f5e1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(241deg,#3c2eff,#fb2828,#e3fa15); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(241deg,#3c2eff,#fb2828,#e3fa15); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#025fa7,#1682d4,#00b0d0,#09d3f6,#42e3ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#025fa7,#1682d4,#00b0d0,#09d3f6,#42e3ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f7d6e0,#d7e3fc,#dec0f1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f7d6e0,#d7e3fc,#dec0f1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#edede9,#f5ebe0,#d5bdaf); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#edede9,#f5ebe0,#d5bdaf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#77c913,#bed31d,#e09429); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#77c913,#bed31d,#e09429); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#e5b2a9,#ddd1c5,#d1dbad,#92ad76); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e5b2a9,#ddd1c5,#d1dbad,#92ad76); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ea628b,#f4b1f5,#b3b2f5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ea628b,#f4b1f5,#b3b2f5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#eae4c3,#e7da8e,#ead562,#eed12b,#eeb02b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#eae4c3,#e7da8e,#ead562,#eed12b,#eeb02b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#d7cde9,#e9cde2,#e9e7cd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d7cde9,#e9cde2,#e9e7cd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#050505,#363636,#808080,#c7c7c7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#050505,#363636,#808080,#c7c7c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f9705a,#ff9824,#c841ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f9705a,#ff9824,#c841ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#262626,#232967,#2936c7,#7586e1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#262626,#232967,#2936c7,#7586e1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#eca146,#be7d71,#d79488); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#eca146,#be7d71,#d79488); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#2e2e2e,#fa002e); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#2e2e2e,#fa002e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#68f091,#8228ea); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#68f091,#8228ea); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#fb8d5f,#ef0357,#77006a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fb8d5f,#ef0357,#77006a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ff8e00,#ffc700,#ff1e00); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ff8e00,#ffc700,#ff1e00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#7bdacd,#87bfbf,#342490); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7bdacd,#87bfbf,#342490); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#c685e1,#e758ea,#f91ad6,#dda5ca); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c685e1,#e758ea,#f91ad6,#dda5ca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#dcf6d1,#dbac62,#e33e52); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#dcf6d1,#dbac62,#e33e52); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#757575,#c38f7b,#be905c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#757575,#c38f7b,#be905c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#75185b,#e38085,#b2b27a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#75185b,#e38085,#b2b27a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#a971f1,#f080af); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#a971f1,#f080af); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#4c115b,#077de1,#49fce0); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#4c115b,#077de1,#49fce0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#7cc1de,#0c2054); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7cc1de,#0c2054); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#7a81f2,#a630b6,#e8664c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7a81f2,#a630b6,#e8664c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f7720b,#d92eb6); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f7720b,#d92eb6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#d6ea2d,#85ed23,#5abb7a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d6ea2d,#85ed23,#5abb7a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#afbcc3,#a0b8fb,#fc91ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#afbcc3,#a0b8fb,#fc91ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(140deg,#700000,#ce7433,#716fb8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(140deg,#700000,#ce7433,#716fb8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(61deg,#da5d5d,#f5bba8,#ffc852); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(61deg,#da5d5d,#f5bba8,#ffc852); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffc17a,#349ada,#fda28b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffc17a,#349ada,#fda28b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#000000,#000000,#33beff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#000000,#000000,#33beff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#747b7f,#fbf33f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#747b7f,#fbf33f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#121117,#00a89b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#121117,#00a89b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ed0984,#ff8530,#d4ed3d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ed0984,#ff8530,#d4ed3d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#588bb0,#00d4b6,#fcf837); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#588bb0,#00d4b6,#fcf837); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#278a79,#19b37d,#52da6b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#278a79,#19b37d,#52da6b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#d13881,#ed8f6b,#e8dca4); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#d13881,#ed8f6b,#e8dca4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#6224e4,#b300cc,#e100b2,#ff189a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#6224e4,#b300cc,#e100b2,#ff189a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#e70f5e,#b35ac3,#148ae3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#e70f5e,#b35ac3,#148ae3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#108cc5,#00c4cd,#4dee74); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#108cc5,#00c4cd,#4dee74); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(180deg,#adc5e1,#659fe2,#609ce0,#609ce1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(180deg,#adc5e1,#659fe2,#609ce0,#609ce1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#cce6ff,#7abfff,#52abff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#cce6ff,#7abfff,#52abff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffec70,#ffdd00,#ffdd00); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffec70,#ffdd00,#ffdd00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#70d2ff,#33beff,#33beff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#70d2ff,#33beff,#33beff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffda75,#ffcb3d,#ffbb00); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffda75,#ffcb3d,#ffbb00); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#5c77ff,#3d5dff,#002aff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#5c77ff,#3d5dff,#002aff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#d8ffa8,#cdff8f,#bfff70); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d8ffa8,#cdff8f,#bfff70); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#8fa2ff,#6b84ff,#6b84ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8fa2ff,#6b84ff,#6b84ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#d0aef9,#c1a8f0,#c289e1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d0aef9,#c1a8f0,#c289e1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(85deg,#ffd885,#ffcd61,#ffc547); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(85deg,#ffd885,#ffcd61,#ffc547); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#8fb0ff,#709bff,#6190ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8fb0ff,#709bff,#6190ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(164deg,#b799f0,#9b6edd,#946bc7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(164deg,#b799f0,#9b6edd,#946bc7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#e9f58f,#f5984d,#f57a7a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e9f58f,#f5984d,#f57a7a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#b1e7fe,#99e0fe,#b1e7fe); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#b1e7fe,#99e0fe,#b1e7fe); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#d2bd92,#ddcaa0,#f8f3e0,#fefdf9); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#d2bd92,#ddcaa0,#f8f3e0,#fefdf9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#c8d9eb,#338fc2,#c5e1ec); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c8d9eb,#338fc2,#c5e1ec); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(0deg,#3561e8,#4a7ef2,#558df6); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(0deg,#3561e8,#4a7ef2,#558df6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(180deg,#23379a,#09133c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(180deg,#23379a,#09133c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#c3c8cc,#eaddd5,#deba98,#937178,#736456); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c3c8cc,#eaddd5,#deba98,#937178,#736456); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f2cd99,#f0dba1,#f5e6b5,#f7d6a1,#d9ba91); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f2cd99,#f0dba1,#f5e6b5,#f7d6a1,#d9ba91); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#2f3231,#727b7e,#c1b99a,#ffefad); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#2f3231,#727b7e,#c1b99a,#ffefad); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#395492,#0099c0,#3dd5a8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#395492,#0099c0,#3dd5a8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#7773c6,#9d6cc0,#bd64b2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7773c6,#9d6cc0,#bd64b2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#682e46,#b6715b,#e0ca80); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#682e46,#b6715b,#e0ca80); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#28a1af,#0085d4,#0853da); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#28a1af,#0085d4,#0853da); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#73f95e,#bee931,#f2d622); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#73f95e,#bee931,#f2d622); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#4e287a,#47439a,#345db8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#4e287a,#47439a,#345db8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#e2ef54,#ff5c66,#6248d5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e2ef54,#ff5c66,#6248d5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#0080bf,#32cd32); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0080bf,#32cd32); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ff5cf1,#b38ade,#66ebff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ff5cf1,#b38ade,#66ebff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#5ee6f0,#9a3deb,#6912d5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#5ee6f0,#9a3deb,#6912d5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#e6ca3d,#f0e17f,#e5db66); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e6ca3d,#f0e17f,#e5db66); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#a996da,#ff867a,#9bd029); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#a996da,#ff867a,#9bd029); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#d86a65,#935c95,#1e5a84); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d86a65,#935c95,#1e5a84); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#8049f8,#dd43b2,#e77189,#d29e8f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8049f8,#dd43b2,#e77189,#d29e8f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(10deg,#7c3c74,#3ea389,#cadeca); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(10deg,#7c3c74,#3ea389,#cadeca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#32c5c5,#799ce4,#cc6683); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#32c5c5,#799ce4,#cc6683); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffffff,#cbf0ff,#93e3fd,#ffc5ab); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffffff,#cbf0ff,#93e3fd,#ffc5ab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#91b2d5,#be9ba1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#91b2d5,#be9ba1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f0ebd9,#ede6d0,#decece,#866a88); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f0ebd9,#ede6d0,#decece,#866a88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f7576a,#f0817d,#e5a398); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f7576a,#f0817d,#e5a398); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#892afe,#ff2366,#f3c735); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#892afe,#ff2366,#f3c735); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#9cc4ab,#70bda0,#21b59c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9cc4ab,#70bda0,#21b59c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f8f5ec,#f0ebd9,#decece,#866a88); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f8f5ec,#f0ebd9,#decece,#866a88); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(36deg,#ffb68c,#febd5b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(36deg,#ffb68c,#febd5b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#795960,#e0d2d5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#795960,#e0d2d5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(33deg,#986969,#c5a9a3,#e0d2d5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(33deg,#986969,#c5a9a3,#e0d2d5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffffff,#ffffff,#d4caff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffffff,#ffffff,#d4caff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#1ac4db,#00c495,#8ccc14); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#1ac4db,#00c495,#8ccc14); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#fab699,#ffa5bd,#eea8fb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#fab699,#ffa5bd,#eea8fb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#0490b0,#c6818d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0490b0,#c6818d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#c9b6bc,#e0e5eb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c9b6bc,#e0e5eb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f7c316,#ff916c,#f882b0); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f7c316,#ff916c,#f882b0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#0462ac,#4993c1,#a2e6fb); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0462ac,#4993c1,#a2e6fb); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#0462ac,#3880ac,#54bcdc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0462ac,#3880ac,#54bcdc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#d3d704,#52b25c,#087f71); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d3d704,#52b25c,#087f71); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#fd11d3,#ff4e74,#ff9c47,#d1cf6d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fd11d3,#ff4e74,#ff9c47,#d1cf6d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(0deg,#696eff,#f6a9ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(0deg,#696eff,#f6a9ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(180deg,#84f0c7,#00a6f4,#292acf); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(180deg,#84f0c7,#00a6f4,#292acf); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#1678f3,#0099ba,#1678f3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#1678f3,#0099ba,#1678f3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#0938a3,#90a8ce,#c0cfde); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0938a3,#90a8ce,#c0cfde); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#0717ed,#ef2525); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0717ed,#ef2525); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ef2525,#e5f505); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ef2525,#e5f505); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#e5f505,#11ee1f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e5f505,#11ee1f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#1485e6,#00c2f0,#2ceeb8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#1485e6,#00c2f0,#2ceeb8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#85b0f2,#00ddcf,#ede067); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#85b0f2,#00ddcf,#ede067); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f4492f,#f367a5,#bc9de0); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f4492f,#f367a5,#bc9de0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#5b4c5d,#cadce3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#5b4c5d,#cadce3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#e37b5f,#96e5fd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e37b5f,#96e5fd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffffff,#6e3041); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffffff,#6e3041); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#a2a49f,#e0d0c4,#f1dac4); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#a2a49f,#e0d0c4,#f1dac4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(1deg,#526d94,#ffffff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(1deg,#526d94,#ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#afd9f7,#f0f2ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#afd9f7,#f0f2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#040d2c,#462a8b,#c505d6); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#040d2c,#462a8b,#c505d6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(59deg,#fdece4,#d9e9d2,#e2e4b9); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(59deg,#fdece4,#d9e9d2,#e2e4b9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#6cff95,#1e524e); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6cff95,#1e524e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#bf46d2,#8da2ff,#b0dafc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#bf46d2,#8da2ff,#b0dafc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#f9c388,#e3ab97,#ba9b9c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#f9c388,#e3ab97,#ba9b9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#dbe62f,#75bd4c,#218e59); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#dbe62f,#75bd4c,#218e59); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#2880d8,#ac73cf,#ee68a4); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#2880d8,#ac73cf,#ee68a4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#d432d8,#ff608d,#f4a582); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#d432d8,#ff608d,#f4a582); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(155deg,#0865d5,#07df24,#e6ab12); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(155deg,#0865d5,#07df24,#e6ab12); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(360deg,#d595ee,#ffbcb7,#f0eee9); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(360deg,#d595ee,#ffbcb7,#f0eee9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#c7a9c4,#fda3b4,#ffab7d,#f5cd41); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#c7a9c4,#fda3b4,#ffab7d,#f5cd41); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#fb8a61,#f74d72,#d2089a,#7029c9); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#fb8a61,#f74d72,#d2089a,#7029c9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#eee246,#ff6c58,#b030a5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#eee246,#ff6c58,#b030a5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(45deg,#50f2c4,#26d0e3,#757aff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(45deg,#50f2c4,#26d0e3,#757aff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(57deg,#0e74f1,#aac8f8,#aaf8c1,#e3f995); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(57deg,#0e74f1,#aac8f8,#aaf8c1,#e3f995); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#65d3ba,#2cfab8,#3eef74); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#65d3ba,#2cfab8,#3eef74); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#fecaab,#f37fb6,#7678c6); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fecaab,#f37fb6,#7678c6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f084e8,#747bcc,#05366d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f084e8,#747bcc,#05366d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#1eda77,#45a8e7,#a1daf7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#1eda77,#45a8e7,#a1daf7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ec44b0,#1168e2,#11e4b5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ec44b0,#1168e2,#11e4b5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#fa7892,#fcb054,#b0cb1b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fa7892,#fcb054,#b0cb1b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#fafafa,#3292e7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fafafa,#3292e7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#3f51b5,#e2229c,#fd0cb2); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#3f51b5,#e2229c,#fd0cb2); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#454545,#212121); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#454545,#212121); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#6f1684,#5b0b98,#53afba); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#6f1684,#5b0b98,#53afba); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#a8ffee,#d6f5ef,#ffffff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#a8ffee,#d6f5ef,#ffffff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#0887d8,#ef5795,#ffdf0f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0887d8,#ef5795,#ffdf0f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#fed2a1,#a97953,#644431); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fed2a1,#a97953,#644431); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#16e3a6,#1ca633); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#16e3a6,#1ca633); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#9814b3,#cd364f,#fc9c3d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9814b3,#cd364f,#fc9c3d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9f2ef4,#f97d64,#ffcd42); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#9814b3,#cd364f,#fc9c3d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#9814b3,#cd364f,#fc9c3d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffa6a3,#eb26b4); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffa6a3,#eb26b4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ffd06b,#fc4d82); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffd06b,#fc4d82); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#baec6b,#229a87,#1dabfd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#baec6b,#229a87,#1dabfd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#8773e8,#cc95e1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8773e8,#cc95e1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#827fe2,#4aebb8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#827fe2,#4aebb8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#fff25c,#f39ed9,#868adc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fff25c,#f39ed9,#868adc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#cc1253,#640089,#561b94); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#cc1253,#640089,#561b94); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#ddee44,#ff4420); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ddee44,#ff4420); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f5abd7,#59c4cd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f5abd7,#59c4cd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#c3284d,#f76463); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c3284d,#f76463); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+background: -webkit-linear-gradient(90deg,#f677b9,#924cba,#4d3e96); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f677b9,#924cba,#4d3e96); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#269ef1,#7036be); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#269ef1,#7036be); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#c94db4,#0f207a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#c94db4,#0f207a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#e901eb,#6011e1,#2de9e4); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e901eb,#6011e1,#2de9e4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#4871b5,#1f4788,#4871b5); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#4871b5,#1f4788,#4871b5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#00a49b,#026773,#092c4e); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#00a49b,#026773,#092c4e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f59ec2,#e26ea5,#ce3c87); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f59ec2,#e26ea5,#ce3c87); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f5da8b,#e9a263,#e47449); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f5da8b,#e9a263,#e47449); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#87124d,#340e40); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#87124d,#340e40); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ea5c54,#bb6dec); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ea5c54,#bb6dec); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#8ea0dd,#8e6ad3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#8ea0dd,#8e6ad3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#222333,#907578); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#222333,#907578); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f3768a,#031a85); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f3768a,#031a85); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ae8bf0,#65b2e2,#2addd8); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ae8bf0,#65b2e2,#2addd8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ff3535,#51055a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ff3535,#51055a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#008dc3,#f9d59d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#008dc3,#f9d59d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#08563d,#e4ef8a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#08563d,#e4ef8a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#e8e7cb,#8fe0c9,#56cbe1); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e8e7cb,#8fe0c9,#56cbe1); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#7649f5,#e87abd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#7649f5,#e87abd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f2cf58,#f11f61); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f2cf58,#f11f61); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#afd9f7,#459cf7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#afd9f7,#459cf7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#afd9f7,#459cf7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#afd9f7,#459cf7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#49b2b1,#016e8d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#49b2b1,#016e8d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#bb256c,#e44429,#ca335d); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#bb256c,#e44429,#ca335d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#34b291,#0a6997,#432b7c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#34b291,#0a6997,#432b7c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#576284,#b770a0); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#576284,#b770a0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#09022e,#ff1154); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#09022e,#ff1154); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ef617d,#df2166); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ef617d,#df2166); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#03d4b4,#1b64bc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#03d4b4,#1b64bc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f7764a,#f9cc7b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f7764a,#f9cc7b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#bc69dc,#5d2df4); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#bc69dc,#5d2df4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#567599,#1f2e4b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#567599,#1f2e4b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#3a4270,#5cc3ca); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#3a4270,#5cc3ca); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#f15256,#ff6b29); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#f15256,#ff6b29); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#a4db79,#e9ee73); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#a4db79,#e9ee73); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#0078ac,#00a8df,#00cbfd); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#0078ac,#00a8df,#00cbfd); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#60c1c2,#fabbd7); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#60c1c2,#fabbd7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#4f3cf1,#98e5e3); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#4f3cf1,#98e5e3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#b976ff,#f38ccc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#b976ff,#f38ccc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#b82886,#282551); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#b82886,#282551); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#e34df5,#2ddffc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#e34df5,#2ddffc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#edefee,#c9c9c9); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#edefee,#c9c9c9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ef9c75,#c3889c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ef9c75,#c3889c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#61bddf,#eac761); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#61bddf,#eac761); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#d4a84f,#4d3825,#17120c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#d4a84f,#4d3825,#17120c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ffd29f,#ffd69f,#ff99ad); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ffd29f,#ffd69f,#ff99ad); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#83ffc9,#83f2ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#83ffc9,#83f2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#959ffe,#3cc0ff); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#959ffe,#3cc0ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#33cc8c,#00bf6f); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#33cc8c,#00bf6f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#875bbc,#e1499c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#875bbc,#e1499c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#1b1c55,#2f2888); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#1b1c55,#2f2888); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#3d159f,#e10d63,#f78b0b); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#3d159f,#e10d63,#f78b0b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#45c5de,#225b8e); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#45c5de,#225b8e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#ff5ccc,#fbc970); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#ff5ccc,#fbc970); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#fa7ed1,#8886fc); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#fa7ed1,#8886fc); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#dd434f,#ea604c); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#dd434f,#ea604c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: -webkit-linear-gradient(90deg,#489900,#64b61a); /* Chrome 10-25, Safari 5.1-6 */ background: linear-gradient(90deg,#489900,#64b61a); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */}
