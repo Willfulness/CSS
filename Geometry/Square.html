@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>Document</title>
+
+<meta name="viewport" content="width=device-width">
+
+<style>
+
+body{
+  color: #4e4e4e;
+  /*        font-family: Fantasy; */
+    
+      background: lightgrey;
+    }
+    
+    span{
+        text-align: center;
+    }
+    
+    .engraved {
+        font-size: 100px;
+  /*      font-family: Futura; */
+        background-color: #666666;
+        -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+        color: transparent;
+        text-shadow: rgba(245,245,245,0.5) 3px 5px 1px;
+     }
+    
+    .embossed{
+      color: #444444;
+      font-size: 100px;
+      font-family: Futura;
+      background-color: #333333;
+      text-shadow: 1px 4px 4px #555;
+      text-align: center;
+      -webkit-background-clip: text;
+        -moz-background-clip: text;
+    
+    }
+    
+    div{
+    
+      /*   display: inline-block; */
+      display: flex;
+         
+      justify-content: center;
+     text-align: center;
+      vertical-align:middle;
+         align-items: center; 
+      align-self: center;  
+    
+      align-content: center;  
+      align-self: center;
+    
+      margin: 15px;
+      
+      font-family: Gordona;
+      background: rgba(235,235,235,1);
+         width:  90vh;
+         height: 90vh;
+      
+      font-size: 450px;
+      
+      
+      
+      
+    /*  position: relative; */
+    }
+    
+    div:before{
+    display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+        content: "";
+    }
+    
+    h1{
+     display: inline-block;
+     vertical-align: middle; 
+      font-size: 450px;
+    /*   position: absolute;  */
+    }
+    
+    h1{
+    vertical-align: middle; 
+    text-align: center;  
+    font-size: 450px;
+    }
+    
+    #black{
+      text-shadow: -1px -1px rgba(0,0,0,0.5), 1px 1px rgba(255,255,255,0.5);
+      color: rgba(0,0,0,0.5);
+      border: solid 5px grey;
+    border-radius: 50%;
+    }
+    
+    #tan{
+      text-shadow: -2px -2px rgba(1,1,1,1.5),
+        2px 2px rgba(255,255,255,1.5);
+      color: tan;
+      border-width: 8px;
+      border-color: tan tan tan tan;
+      border-style:  solid ridge solid ridge;
+      border-radius: 50%;
+      box-shadow: inset 0 5px 9px #4067F8  , inset 0px 2px 4px gray;
+      filter: drop-shadow(5px 19px 8px rgba(0,0,111,0.4));
+    }
+    
+    #black2{
+      text-shadow: -1px -1px rgba(0,0,0,1), 1px 1px rgba(255,255,255,1);
+      color: rgba(0,0,0,1);
+      border: ridge 5px darkgrey;
+    border-radius: 50%;
+    }
+    
+    #brown{
+      text-shadow: -1.5px -1.5px rgba(1,1,1,1.5), 1.5px 1.5px rgba(255,255,255,1.5);
+      color: rgba(139,69,19,1);
+      border: ridge 5px darkgrey;
+    border-radius: 50%;
+    }
+  
+</style>
+</head>
+
+<body>
+    
+
+<span class = "engraved">Engraved</span>
+vs
+<span class = "embossed">Embossed</span>
+<p></p>
+
+<div id="black"><h1>&#11044<h1></div>
+<div id="tan">&#11044</div>
+  <div id="tan"><h1>&#11044</h1></div>
+<div id="black2"><h1>&#11044</h1></div>
+<div id="brown"><h1>brown</h1></div>
+ Some people tend to call Embossed text, engraved text. <br>It gives me the gigglesnorts.      
+      
+
+
+</body>
+</html>
