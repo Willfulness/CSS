@@ -1,0 +1,39 @@
+body {
+  background: #efefef;
+}
+
+.tooltip {
+  height: 350px;
+  width: 400px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: white;
+  box-shadow: 4px 4px 12px 7px rgba(125,115,200,0.3);
+  border-radius:2px;
+
+  &__arrow {
+    width: 50px;
+    height: 35px;
+    position: absolute;
+    top: 100%;
+    left: 15%;
+    transform: translateX(-50%);
+    overflow: hidden;
+     
+    &::after {
+      
+     content: "";
+     position: absolute;
+     width: 30px;
+     height: 30px;
+     background: white;
+     transform: translateX(-50%) translateY(-50%) rotate(45deg);
+     top: 0;
+     left: 50%;
+ 
+       box-shadow: 2px 3px 4px 5px rgba(115,115,250,0.24);
+    }
+  }
+}
