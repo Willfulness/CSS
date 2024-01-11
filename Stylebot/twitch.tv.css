@@ -1,0 +1,123 @@
+div[pseudo]{display:none;}
+
+.jIpCbA {
+    left: 0px;
+    padding-left: 22px;    
+}
+
+video ~ div >div.video-player__overlay>div
+{
+width: 110%;
+background-position: 0% left;
+background-size: contain;       
+}
+
+ button > div > figure> svg[viewBox="0 0 20 20"]{
+    user-select: none;
+    border-radius: var(--border-radius-medium);
+    border: blueviolet solid transparent;
+    background-color2: red;
+    color: greenyellow;
+     fill: dodgerblue;
+ }
+
+ .eWaZXT {
+    color:  greenyellow;
+    background-color2: red;
+    background2: blue;
+}
+
+button > div > figure > svg[viewBox="0 0 20 20"]{
+  color2: blanchedalmond;
+  background-color2: darkorange;
+ }
+
+#track{
+  color:  greenyellow;
+  background: red;
+}
+#thumb{
+  color:  greenyellow;
+  background: red;
+}
+
+ScTransitionBase-sc-hx4quq-0 lcamvF tw-transition volume-slider__slider-container{
+  color:  greenyellow;
+}
+
+input.ScRangeInput-sc-q01wc3-0.ePJIVh.tw-range {
+  color:red;
+  background-color2: red;
+}
+
+
+.ePJIVh::-webkit-slider-thumb {
+    border-radius: var(--border-radius-rounded);
+    box-shadow: var(--shadow-elevation-1);
+    width: 1.6rem;
+    height: 1.6rem;
+    margin-top: -0.7rem;
+    border: var(--border-width-default) solid greenyellow;
+    background-color:  greenyellow;
+    appearance: none;
+}
+
+div[class^='bre'], div[class*='bre']
+{
+  display: none;
+}
+
+div[data-test-selector^='toggle-balloon-wrapper']{
+  display: none;
+}
+
+
+#twitch-extension\:overlay{
+  display: none;
+}
+
+#trigger{
+  display: none;
+}
+
+div2#root{
+  display: none;
+}
+
+#b-root{
+  display: none;
+}
+
+
+iframe{
+  display: none;
+}
+
+
+ div2 > button[data-a-target='chat-badge']>img[class='chat-badge'][alt='Модератор']{
+  display: none;
+}
+
+.tw-root--theme-light {  
+  --color-background-base:  hsla(228, 77%, 61%, 1);
+   /*hsla(228, 47%, 41%, 1);*/
+  --color-background-alt: hsla(28, 34%, 71%, 1);
+
+  /*  #aa8474 
+  hsla(18, 24%, 56%, 1);
+  */
+  --color-background-alt-2: #99aadf;
+
+          --color-text-alt:#243165;
+
+--color-background-body:  hsla(48, 97%, 95%, 1);
+          
+}
+
+body{
+  background-color: #c0a499;
+}
+
+.top-bar--pointer-enabled{
+  display:none;
+}
